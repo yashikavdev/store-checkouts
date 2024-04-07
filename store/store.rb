@@ -29,10 +29,6 @@ class Store
     )
   end
 
-  def products_quantity
-    @inventory.size
-  end
-
   def products
     @inventory.values
   end

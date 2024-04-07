@@ -34,7 +34,7 @@ class Checkout
   end
 
   def total
-    @rules.each { |rule| rule.apply(@cart.items) }
+    @rules.each { |rule| rule.apply(@cart) }
     @cart.items.inject(0.0) { |total, item| total + item.price }
   end
 end

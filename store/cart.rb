@@ -2,7 +2,7 @@
 
 # cart.rb
 class Cart
-  attr_reader :items
+  attr_accessor :items
 
   def initialize
     @items = []

@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "type": "PromotionalDiscount",
+      "threshold": 2,
+      "on_price": 1,
+      "code": "VOUCHER"
+    },
+    {
+      "type": "PromotionalDiscount",
+      "threshold": 3,
+      "on_price": 1,
+      "code": "TSHIRT"
+    },
+    {
+      "type": "BulkDiscount",
+      "threshold": 3,
+      "discounted_price": 1.0,
+      "code": "TSHIRT"
+    }
+  ]
+}

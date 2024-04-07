@@ -12,10 +12,6 @@ class Product
     @price = price
   end
 
-  def to_s
-    Terminal::Table.new(headings: %w[Code Name Price], rows: [to_a])
-  end
-
   def to_a
     [code, name, price]
   end

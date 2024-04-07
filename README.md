@@ -1,3 +1,6 @@
+# issue
+https://docs.google.com/document/d/1zyuUsvHtUYMmXiripmtzv9_E9jxU99VJ4V6llF0TYLQ/edit
+
 # Store Checkouts
 
 ## Running CLI program
@@ -29,7 +32,7 @@ Total: 32.50 $`
 Total: 25.00 $`
 
 `3. Items: TSHIRT, TSHIRT, TSHIRT, VOUCHER, TSHIRT
-Total: 81.00 $`
+Total: 45.00 $`
 
 `4. Items: VOUCHER, TSHIRT, VOUCHER, VOUCHER, MUG, TSHIRT, TSHIRT
-Total: 74.50 $`
+Total: 37.50 $`
